@@ -4,8 +4,7 @@ We do different kinds of webby and mobile stuff.
 
 Feel free to drop me a mail for questions and opportunities.
 
-<img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/react-original.svg" width="20px"/>
-<img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/graphql.svg" width="20px"/>
+<img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/react-original.svg" width="20px"/><img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/graphql.svg" width="20px"/>
 <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/storybook.svg" width="20px"/>
 <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/mobx-state-tree-logo-gradient.png" width="20px"/>
 <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/mongodb-original.svg" width="20px"/>
@@ -15,7 +14,6 @@ Feel free to drop me a mail for questions and opportunities.
 <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/kubernetes.svg" width="20px"/>
 <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/github-original.svg" width="20px"/>
 <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/vim-original.svg" width="20px"/>
-
 <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/git-original.svg" width="20px"/>
 <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/babel-original.svg" width="20px"/>
 <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/css3-original.svg" width="20px"/>
