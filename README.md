@@ -19,4 +19,4 @@ to comply with the coolkid's readme trend, below is a mishmash of techs we use o
 <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/digital-ocean.svg" height="20px"/>
 <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/aws.svg" height="20px"/>
 
-🚀 and of course, readmes are required to have ze emojis 🤘
+🚀 &nbsp; and of course, readmes are required to have ze emojis 🤘
