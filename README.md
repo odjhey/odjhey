@@ -1,13 +1,13 @@
-### Yo there! call me [odee](https://odjhey.com).
+#### Yoooow! call me [odee](https://odjhey.com).
 
 we do different kinds of webby+mobile stuff and live mostly in the React ecosystem.  
 currently traversing the cloud native wilderness through kubernetes+docker.
 
 outside tech, you can find me consuming loads and loads of media, mainly music, culture, games, japan, etc. (for real, etc.). got hooked recently to kpop and korean reality shows.
 
-Feel free to drop me a mail for ... anything really.
+not looking for anything specific right now, but feel free to drop me a mail for ... anything really.
 
-to comply with the github readme trend, below is a mishmash of tools and techs we use on our day2day.
+to comply with the coolkid's readme trend, below is a mishmash of techs we use on our day2day 
 
 <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/react-original.svg" height="20px"/><img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/graphql.svg" height="20px"/> <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/storybook-icon.svg" height="20px"/> <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/mobx-state-tree-logo-gradient.png" height="20px"/> <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/mongodb-original.svg" height="20px"/> <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/typescript-original.svg" height="20px"/> <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/nodejs-original.svg" height="20px"/> <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/docker-original.svg" height="20px"/> <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/kubernetes.svg" height="20px"/> <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/github-original.svg" height="20px"/> <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/vim-original.svg" height="20px"/> <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/git-original.svg" height="20px"/> <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/babel-original.svg" height="20px"/> <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/css3-original.svg" height="20px"/> <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/html5-original.svg" height="20px"/> <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/javascript-original.svg" height="20px"/> <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/linux-original.svg" height="20px"/> <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/nginx-original.svg" height="20px"/> <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/npm-original-wordmark.svg" height="20px"/> <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/redis-original.svg" height="20px"/> <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/visual-studio-code.svg" height="20px"/> <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/webpack-original.svg" height="20px"/> <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/yarn-original.svg" height="20px"/> <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/figma.svg" height="20px"/>
 <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/apollostack.svg" height="20px"/>
@@ -18,3 +18,5 @@ to comply with the github readme trend, below is a mishmash of tools and techs w
 <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/relay.svg" height="20px"/>
 <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/digital-ocean.svg" height="20px"/>
 <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/aws.svg" height="20px"/>
+
+🚀 and of course, readmes are required to have ze emojis 🤘
