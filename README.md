@@ -3,7 +3,7 @@
 we do different kinds of webby+mobile stuff and live mostly in the React ecosystem.  
 currently traversing the cloud native wilderness through kubernetes+docker.
 
-outside tech, you can find me consuming loads and loads of media, mainly about music, culture, games, japan, etc. (for real, etc.). got hooked recently to kpop and korean reality shows.
+outside tech, you can find me consuming loads and loads of media, mainly about music, culture, games, japan, etc. (for real, etc.). got hooked recently to kpop, korean reality shows, and super smash ultimate.
 
 not looking for anything specific right now, but feel free to drop me a mail for ... anything really.
 
