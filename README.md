@@ -23,4 +23,6 @@ to comply with the coolkid's readme trend, below is a mishmash of tech infos we 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odjhey&layout=compact)
 
+![](https://komarev.com/ghpvc/?username=odjhey)
+
 🚀 &nbsp; and of course, readmes are required to have ze emojis 🤘
