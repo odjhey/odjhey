@@ -1,6 +1,6 @@
 #### Yoooow! call me [odee](https://odjhey.com).
 
-No more react.
+No more React for now.
 
 Currently taking a Node Backend Role. Mostly working with the serverless architecture of AWS.
 
