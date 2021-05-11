@@ -1,4 +1,4 @@
-#### Yoooow! call me [odee](https://odjhey.com).
+#### Yoooow! call me [odee](https://odjhey.com). I'm also (and more active these days) in [gitlab](https://gitlab.com/odelon.pacalso).
 
 No more React for now.
 
