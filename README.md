@@ -13,10 +13,17 @@ You can view some deployed junk here. http://discover.apps.odee.io/
 <img src="https://raw.githubusercontent.com/odjhey/odjhey/master/icons/aws.svg" height="20px"/>
 
 
+![Langs per project](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=odjhey&theme=monokai)
+![Langs for commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=odjhey&theme=monokai)
+
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=odjhey&theme=monokai&column=8)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odjhey&theme=monokai)
+
+<!--
 ![Stats for odjhey](https://github-readme-stats.vercel.app/api?username=odjhey&show_icons=true&count_private=true)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odjhey&layout=compact)
-
+-->
 
 🚀 &nbsp; and of course, readmes are required to have ze emojis 🤘
