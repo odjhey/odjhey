@@ -1,8 +1,7 @@
-#### Yoooow! call me [odee](https://odjhey.com). I'm also (and more active these days) in [gitlab](https://gitlab.com/odelon.pacalso).
+#### Yoooow! call me [odee](https://odjhey.com). 
+<!-- I'm also (and more active these days) in [gitlab](https://gitlab.com/odelon.pacalso). -->
 
-No more React for now.
-
-Currently taking a Node Backend Role. Mostly working with a serverless architecture in the AWS ecosystem.
+Nothing special here, but feel free to hit me up (email,DM,etc) for gigs, im `odjhey` in most of the socials. (odjhey@gmail.com)
 
 You can view some deployed junk here. http://discover.apps.odee.io/
 
