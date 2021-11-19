@@ -1,7 +1,7 @@
 #### Yoooow! call me [odee](https://odjhey.com). 
 <!-- I'm also (and more active these days) in [gitlab](https://gitlab.com/odelon.pacalso). -->
 
-Nothing special here, but feel free to hit me up (email,DM,etc) for gigs, im `odjhey` in most of the socials. (odjhey@gmail.com)
+Nothing special here, but feel free to hit me up (email,DM,etc) for gigs, im `odjhey` in most of the socials.
 
 You can view some deployed junk here. http://discover.apps.odee.io/
 
@@ -15,8 +15,9 @@ You can view some deployed junk here. http://discover.apps.odee.io/
 ![Langs for commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=odjhey&theme=monokai)
 ![Langs per project](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=odjhey&theme=monokai)
 
-
+<!--
 ![Trophies](https://github-profile-trophy.vercel.app/?username=odjhey&theme=monokai&column=8)
+-->
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odjhey&theme=monokai)
 
