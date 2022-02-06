@@ -22,4 +22,6 @@ You can view some deployed junk here. http://discover.apps.odee.io/
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odjhey&layout=compact)
 -->
 
+![Streak for odjhey](https://github-readme-streak-stats.herokuapp.com/?user=odjhey&theme=dracula)
+
 🚀 &nbsp; and of course, readmes are required to have ze emojis 🤘
