@@ -24,4 +24,8 @@ You can view some deployed junk here. (~~http://discover.apps.odee.io/~~) >> htt
 
 ![Streak for odjhey](https://github-readme-streak-stats.herokuapp.com/?user=odjhey&theme=dracula)
 
+
 🚀 &nbsp; and of course, readmes are required to have ze emojis 🤘
+
+![Historical](https://activity-graph.herokuapp.com/graph?username=odjhey&hide_border=true&hide_title=true&theme=react-dark)
+
