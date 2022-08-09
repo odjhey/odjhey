@@ -6,7 +6,7 @@ Nothing special here, but feel free to hit me up (email,DM,etc) for gigs, im `od
 You can view some deployed junk here. (~~http://discover.apps.odee.io/~~) >> http://discover.apps.odjhey.com/
 
 ### Current Interests includes (very volatile list)
-- process orchestration/DAGs (temporalio, airflow, dagster)
+- process orchestration/DAGs (temporalio, dagster)
 - data exploration (jupyter/python/pandas)
 - data transformations (dbt)
 - game idea validations (lua with love2d)
